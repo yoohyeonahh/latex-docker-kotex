@@ -4,6 +4,11 @@ latex-docker + kotex
 A lab-exercise template to build a docker image from `blang/latex:ctanbasic`, adding `kotex` packages.
 
 ## Commands
+To build docker image
+```
+docker build -t mylatex .
+```
+To build pdf
 ```
 ./latexdockercmd.sh pdflatex main.tex
 ```
