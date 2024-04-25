@@ -16,4 +16,3 @@ To build pdf
 ## Links
 - https://github.com/blang/latex-docker
 - http://wiki.ktug.org/wiki/wiki.php/ko.TeX
-- https://ctan.org/pkg/kotex-utf
